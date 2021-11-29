@@ -1,3 +1,1 @@
-emit
-
-函数式组件
+https://gitee.com/we_coder/vue3-component-library
